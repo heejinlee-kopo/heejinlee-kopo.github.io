@@ -1,3 +1,18 @@
+
+# 홍길동의 github 홈페이지
+## 프로젝트 주제
+내가 만든 프로젝트의 주제는 통합계좌 관리 금융시스템입니다.
+## 전체 설계도
+<img src="ppt.jpg"/><br>
+[발표자료](/project.pptx)<br>
+## 발표 동영상
+발표 동영상입니다.
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+[내가 좋아하는 검색엔진](https://naver.com)
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/heejinlee-kopo/heejinlee-kopo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
