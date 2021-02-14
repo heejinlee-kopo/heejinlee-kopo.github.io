@@ -1,14 +1,15 @@
 
 # 홍길동의 github 홈페이지
 ## 프로젝트 주제
-내가 만든 프로젝트의 주제는 통합계좌 관리 금융시스템입니다.
+통합계좌 관리 금융시스템입니다.
 ## 전체 설계도
-<img src="ppt.jpg"/><br>
+<img src="architecture.jpg"/><br>
 [발표자료](/project.pptx)<br>
 ## 발표 동영상
 발표 동영상입니다.
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
-[내가 좋아하는 검색엔진](https://naver.com)
+## Reference
+[검색엔진](https://naver.com)
 
 
 
