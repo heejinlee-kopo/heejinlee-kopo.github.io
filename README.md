@@ -33,9 +33,9 @@
 ## 3. IT 경험
 
 ||과목 |기간|개요 |
-|1|[git](https://heejinlee-kopo.github.io/subject_java)|20xx년 3월|git 사용법 |
-|2|[java](https://heejinlee-kopo.github.io/subject_java)|20xx년 3월|java 기초|
-|3|[SQL](https://heejinlee-kopo.github.io/subject_java)|20xx년 4월|sql 기초 |
+|1|[git](https://heejinlee-kopo.github.io/subject)|20xx년 3월|git 사용법 |
+|2|[java](https://heejinlee-kopo.github.io/subject)|20xx년 3월|java 기초|
+|3|[SQL](https://heejinlee-kopo.github.io/subject)|20xx년 4월|sql 기초 |
 |||||
 |||||
 |||||
