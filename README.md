@@ -41,5 +41,6 @@
 |||||
 
 ## 관련 링크 
-### [검색엔진 네이버](https://naver.com)
-### [Hello world git 사용법](https://heejinlee-kopo.github.io/2021helloworld)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
+### [한국폴리텍대학 광명융합기술교육원 데이터분석과 홈페이지](https://www.kopo.ac.kr/gm)
