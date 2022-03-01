@@ -1,5 +1,7 @@
 
-# 홍길동의 github 홈페이지
+
+# 고길동의 github 홈페이지
+
 ## 1. 본인 소개 
 
 본인 소개를 추가하세요
@@ -25,27 +27,18 @@
 
 <video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br><br>
 
-
-<img src="architecture.png"/><br>
-[발표자료<img src="architecture.png"/>](/project.pptx)<br>
+ 
+[발표자료<img src="ppt.JPG"/>](/project.pptx)<br>
 
 ## 3. IT 경험
 
-|이름 |고길동|![gdKO](/gdko.jpg)|
-|연락처 | gdko(@)kopo.ac.kr|
-|skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
-|자격증| 20xx년 정보처리기사 |
-|| 20xx년 빅데이터분석기사 |
-|| 20xx년 SQLD |
-|| 20xx년 ADsP |
-|수상| 20xx년 ICT 멘토링 프로젝트 대상 수상 (과학기술정보통신부 지원)  |
-| | 20xx년 한국폴리텍대학 벤처창업아이템경진대회 대상 수상 (고용노동부 후원)  |
-| | 20xx년 금융데이터경진대회 금상 수상|
-| | 20xx년 대학생 논문 경진대회 은상 수상|
-|특기사항|  TOEIC 990 |
-||  리니지 만랩 |
-
+||과목 |기간|개요 |
+|1|[git](https://heejinlee-kopo.github.io/subject1)|20xx년 3월|git 사용법 |
+|2|[java](https://heejinlee-kopo.github.io/subject1)|20xx년 3월|java 기초|
+|3|[SQL](https://heejinlee-kopo.github.io/subject1)|20xx년 3월|sql 기초 |
+|||||
+|||||
+|||||
 
 ## 관련 링크 
 ### [검색엔진 네이버](https://naver.com)
